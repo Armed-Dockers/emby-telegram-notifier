@@ -12,7 +12,7 @@ A simple Flask application that sends notifications to Telegram whenever new con
 
 ## Prerequisites
 
-- An Emby server with the Webhook plugin installed.
+- An Emby server with the Webhook plugin installed
 - A Telegram bot token and chat ID (see the section on setting up a Telegram bot below).
 - Docker (optional, for Docker installation).
 
